@@ -129,29 +129,29 @@ You should be able to ...
 - [X] Open the repo in Atom: Repository > Open in Atom  
 - [X] ✏️ In Atom, edit this README file and add your *second* favorite emoji here: **😬**
 - [X] In Github Desktop, view/confirm your edits to the README file on the Changes tab
-- [ ] ✏️ Commit your changes directly to the main branch with the message `commit #2 from Github Desktop`
-- [ ] Click Push origin to push your new commit to remote repo  
-- [ ] Confirm the changes to the README file were pushed: Choose Repository > View on Github
-- [ ] Click on the README file and then click on History to see the history of this file
+- [X] ✏️ Commit your changes directly to the main branch with the message `commit #2 from Github Desktop`
+- [X] Click Push origin to push your new commit to remote repo  
+- [X] Confirm the changes to the README file were pushed: Choose Repository > View on Github
+- [X] Click on the README file and then click on History to see the history of this file
 
 
 ### Command line interface (CLI)
 You should have a basic familiarity with the command line to install Git. Some folks use the CLI as their default tool for editing and publishing source code, but Atom makes it much easier.
 
-- [ ] If you haven't yet, complete the [command line crash course](https://github.com/omundy/learn-computing/blob/main/topics-command-line.md#crash-course)
-- [ ] In Github Desktop, with the [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repo you cloned above selected, click Repository > Open in Terminal ("Bash" in Windows?)
-- [ ] Use the CLI to navigate directories  
-  - [ ] List files in this directory: `ls`
-  - [ ] List files in this directory, including hidden: `ls -la`  
-  - [ ] Confirm the existence of the `.git` directory (where Git versions and config are stored)
-  - [ ] View your current directory and copy the full path: `pwd`
-  - [ ] Open this README file in Atom and paste that path here: **??**
-- [ ] Use Git on the CLI
-  - [ ] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
-  - [ ] View the status of your repo: `git status`
-  - [ ] View the changed files of your repo: `git diff`
-  - [ ] Add all changed files to the staging area `git add .`
-  - [ ] View the status of your repo `git status` to confirm it has been staged
+- [X] If you haven't yet, complete the [command line crash course](https://github.com/omundy/learn-computing/blob/main/topics-command-line.md#crash-course)
+- [x] In Github Desktop, with the [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repo you cloned above selected, click Repository > Open in Terminal ("Bash" in Windows?)
+- [X] Use the CLI to navigate directories  
+  - [X] List files in this directory: `ls`
+  - [X] List files in this directory, including hidden: `ls -la`  
+  - [X] Confirm the existence of the `.git` directory (where Git versions and config are stored)
+  - [X] View your current directory and copy the full path: `pwd`
+  - [X] Open this README file in Atom and paste that path here: **/Users/anneliseclaire/Sites/critical-web-design/learn-git-milestones**
+- [X] Use Git on the CLI
+  - [X] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
+  - [X] View the status of your repo: `git status`
+  - [X] View the changed files of your repo: `git diff`
+  - [X] Add all changed files to the staging area `git add .`
+  - [ ] View the status of your repo `git status` to confirm it has been staged <!-- still not certain it was staged... -->
   - [ ] ✏️ Commit your changes with the message `commit #3 from CLI`
   - [ ] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
 
