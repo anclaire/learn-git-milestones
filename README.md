@@ -127,8 +127,8 @@ You should be able to ...
 	- [X] Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `<your-class-name-here>`
 	- [X] Click "Clone" to make a local copy
 - [X] Open the repo in Atom: Repository > Open in Atom  
-- [ ] ✏️ In Atom, edit this README file and add your *second* favorite emoji here: **??**
-- [ ] In Github Desktop, view/confirm your edits to the README file on the Changes tab
+- [X] ✏️ In Atom, edit this README file and add your *second* favorite emoji here: **😬**
+- [X] In Github Desktop, view/confirm your edits to the README file on the Changes tab
 - [ ] ✏️ Commit your changes directly to the main branch with the message `commit #2 from Github Desktop`
 - [ ] Click Push origin to push your new commit to remote repo  
 - [ ] Confirm the changes to the README file were pushed: Choose Repository > View on Github
