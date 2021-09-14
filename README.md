@@ -151,10 +151,9 @@ You should have a basic familiarity with the command line to install Git. Some f
   - [X] View the status of your repo: `git status`
   - [X] View the changed files of your repo: `git diff`
   - [X] Add all changed files to the staging area `git add .`
-  - [ ] View the status of your repo `git status` to confirm it has been staged <!-- still not certain it was staged... -->
-  - [ ] ✏️ Commit your changes with the message `commit #3 from CLI`
-  - [ ] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
-
+  - [X] View the status of your repo `git status` to confirm it has been staged <!-- still not certain it was staged... -->
+  - [X] ✏️ Commit your changes with the message `commit #3 from CLI`
+  - [X] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
 
 
 You've used most of these already through a GUI (e.g. `git status`, `git add`, `git commit`, `git push`) ...
@@ -165,36 +164,36 @@ You've used most of these already through a GUI (e.g. `git status`, `git add`, `
 ### Git in Atom
 You should be able to ...
 
-- [ ] In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom  
-- [ ] ✏️ In Atom, edit this README file and add your *third* favorite emoji here: **??**
-- [ ] ✏️ Create a new file `hello.txt`, add some text and save it.
-- [ ] Display the Git panel (click the small Git button at the bottom right).
+- [X] In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom  
+- [X] ✏️ In Atom, edit this README file and add your *third* favorite emoji here: **🤦‍♀️**
+- [X] ✏️ Create a new file `hello.txt`, add some text and save it.
+- [X] Display the Git panel (click the small Git button at the bottom right).
 
 ![atom-git-menu](assets/img/atom-git-menu.png)
 
-- [ ] Select on your file(s) in Unstaged changes and confirm your changes match what you expect to see
-- [ ] Double click on each file with changes to stage them  
-- [ ] ✏️ Commit your changes directly to the main branch with the message `commit #4 from Atom`
+- [X] Select on your file(s) in Unstaged changes and confirm your changes match what you expect to see
+- [X] Double click on each file with changes to stage them  
+- [X] ✏️ Commit your changes directly to the main branch with the message `commit #4 from Atom`
 
 
 
 
 ## Create a new repository
 
-- [ ] Create a repository from scratch
-  - [ ] ✏️ In Github Desktop, create a new repository with the name: `my-awesome-project`
-  - [ ] Local Path: Click "Choose" and create a new folder `my-awesome-project` inside the `<your-class-name-here>` folder you made above
-  - [ ] Click Create Repository
-  - [ ] This should now be your class folder's directory structure.
+- [X] Create a repository from scratch
+  - [X] ✏️ In Github Desktop, create a new repository with the name: `my-awesome-project`
+  - [X] Local Path: Click "Choose" and create a new folder `my-awesome-project` inside the `<your-class-name-here>` folder you made above
+  - [X] Click Create Repository
+  - [X] This should now be your class folder's directory structure.
   ```
   <your-class-name-here>
     |-- my-awesome-project
     |-- learn-git-milestones
   ```
-  - [ ] Open your new repository in Atom (with Github Desktop or drag the `my-awesome-project` project folder onto the Atom icon in your dock)
-  - [ ] ✏️ Add a README file: `README.md`
-  - [ ] ✏️ In the README write your name and the date
-  - [ ] ✏️ Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+  - [X] Open your new repository in Atom (with Github Desktop or drag the `my-awesome-project` project folder onto the Atom icon in your dock)
+  - [X] ✏️ Add a README file: `README.md`
+  - [X] ✏️ In the README write your name and the date
+  - [X] ✏️ Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 
 
@@ -202,7 +201,7 @@ You should be able to ...
 ## Create a Github.io page
 Create a github.io site for your repository ...
 
-- [ ] ✏️ Create a file called `index.html` in your new repo and add the following html
+- [X] ✏️ Create a file called `index.html` in your new repo and add the following html
 
 ```html
 <!DOCTYPE html>
@@ -219,13 +218,13 @@ Create a github.io site for your repository ...
 </html>
 ```
 
-- [ ] Set up a [Github page](https://pages.github.com/) "project site" for your repo
-  - [ ] On Github.com, go to your repo > Settings, and scroll down to the Github Pages section
-  - [ ] Select the main branch source and click save
-  - [ ] Do not use a theme. Start from scratch
-  - [ ] Visit your project site at http://*username*.github.io/my-awesome-project
-  - [ ] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
-  - [ ] ✏️ Paste this link here:
+- [X] Set up a [Github page](https://pages.github.com/) "project site" for your repo
+  - [X] On Github.com, go to your repo > Settings, and scroll down to the Github Pages section
+  - [X] Select the main branch source and click save
+  - [X] Do not use a theme. Start from scratch
+  - [X] Visit your project site at http://*username*.github.io/my-awesome-project
+  - [X] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
+  - [X] ✏️ Paste this link here:https://anclaire.github.io/my-awesome-project/
 
 
 
@@ -235,10 +234,10 @@ Create a github.io site for your repository ...
 ## Turn in this Assignment
 Now that we have basic Git commands out of the way use Git to create and turn in your assignment ...
 
-- [ ] Complete all of the items on this README
-- [ ] Test your file(s) in a web browser
-- [ ] Commit and push the files to Github
-- [ ] Paste the github.io link into the appropriate Moodle forum
+- [X] Complete all of the items on this README
+- [X] Test your file(s) in a web browser
+- [X] Commit and push the files to Github
+- [X] Paste the github.io link into the appropriate Moodle forum
 
 
 
